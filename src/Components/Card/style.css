@@ -1,0 +1,37 @@
+.Card{
+    height: 23vh;
+    width: 17vw;
+    background-color: #2e303b;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.text{
+    color: white;
+}
+.col{
+    color: aliceblue;
+}
+.roomTitle{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 5px;
+}
+.subtitle{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.btnDetails{
+    width: 7vw;
+    height: 5vh;
+    border-radius: 10px;
+    border: none;
+    background-color: #1e2238;
+    color: white;
+    margin: 10px;
+}
